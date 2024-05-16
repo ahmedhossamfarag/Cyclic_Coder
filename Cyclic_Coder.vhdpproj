@@ -1,0 +1,15 @@
+﻿<Project>
+  <ItemGroup>
+    <File Include="Cyclic_Coder_tb.vhd" />
+    <File Include="bitreg.vhd" />
+    <File Include="decodecircuit.vhd" />
+    <File Include="decoder.vhd" />
+    <File Include="encodecircuit.vhd" />
+    <File Include="encoder.vhd" />
+    <File Include="seqreg.vhd" />
+    <File Include="syndromecircuit.vhd" />
+  </ItemGroup>
+  <PropertyGroup>
+    <HardwareStartPath>Cyclic_Coder.vhd</HardwareStartPath>
+  </PropertyGroup>
+</Project>

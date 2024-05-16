@@ -1,0 +1,24 @@
+# auto-generated
+[Libraries]
+work.files = [
+	'Cyclic_Coder_tb.vhd',
+	'bitreg.vhd',
+	'decodecircuit.vhd',
+	'decoder.vhd',
+	'encodecircuit.vhd',
+	'encoder.vhd',
+	'seqreg.vhd',
+	'syndromecircuit.vhd'
+]
+[libraries.work]
+files = [
+	'Cyclic_Coder_tb.vhd',
+	'bitreg.vhd',
+	'decodecircuit.vhd',
+	'decoder.vhd',
+	'encodecircuit.vhd',
+	'encoder.vhd',
+	'seqreg.vhd',
+	'syndromecircuit.vhd'
+]
+# auto-generated-end
